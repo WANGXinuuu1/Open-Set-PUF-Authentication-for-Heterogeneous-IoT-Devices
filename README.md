@@ -263,6 +263,24 @@ python onnx_conversion/onnx_d.py     # export Discriminator
 ```
 
 
+## Citation
+
+If you find this work useful for your research, please consider citing our paper.
+
+### BibTeX
+
+```bibtex
+@article{wang2026unified,
+  title={A Unified Open-Set Framework for Scalable PUF-Based Authentication of Heterogeneous IoT Devices},
+  author={Wang, Xin and Hua, Peichun and Chang, Chip Hong and Liu, Wenye and Zheng, Yue},
+  journal={arXiv preprint arXiv:2605.07340},
+  year={2026}
+}
+```
+
+### Word / Plain-Text Reference
+
+Wang, X., Hua, P., Chang, C. H., Liu, W., & Zheng, Y. (2026). *A Unified Open-Set Framework for Scalable PUF-Based Authentication of Heterogeneous IoT Devices*. arXiv preprint arXiv:2605.07340.
 
 ## Acknowledgements
 
