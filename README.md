@@ -270,17 +270,21 @@ If you find this work useful for your research, please consider citing our paper
 ### BibTeX
 
 ```bibtex
-@article{wang2026unified,
+@inproceedings{wang2026unified,
   title={A Unified Open-Set Framework for Scalable PUF-Based Authentication of Heterogeneous IoT Devices},
   author={Wang, Xin and Hua, Peichun and Chang, Chip Hong and Liu, Wenye and Zheng, Yue},
-  journal={arXiv preprint arXiv:2605.07340},
-  year={2026}
+  booktitle={Proc. IEEE Int. Conf. Syst., Man, and Cybern.},
+  address={Bellevue, WA, USA},
+  month={oct},
+  year={2026},
+  note={Accepted, to appear}
 }
 ```
 
-### Word / Plain-Text Reference
+### IEEE Word Reference
 
-Wang, X., Hua, P., Chang, C. H., Liu, W., & Zheng, Y. (2026). *A Unified Open-Set Framework for Scalable PUF-Based Authentication of Heterogeneous IoT Devices*. arXiv preprint arXiv:2605.07340.
+X. Wang, P. Hua, C. H. Chang, W. Liu, and Y. Zheng, "A Unified Open-Set Framework for Scalable PUF-Based Authentication of Heterogeneous IoT Devices," in *Proc. 2026 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, Bellevue, WA, USA, Oct. 4-7, 2026, to appear.
+
 
 ## Acknowledgements
 
